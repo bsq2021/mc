@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "p_and_b:blocks/ababab",
+    "up": "p_and_b:blocks/ba",
+    "north": "p_and_b:blocks/banana",
+    "east": "p_and_b:blocks/banana",
+    "south": "p_and_b:blocks/banana",
+    "west": "p_and_b:blocks/banana",
+    "particle": "p_and_b:blocks/ababab"
+  }
+}

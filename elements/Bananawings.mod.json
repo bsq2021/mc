@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 5,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Banana"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Bananaingot"
+      },
+      {
+        "value": "CUSTOM:Banana"
+      },
+      {
+        "value": "CUSTOM:Bananaingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Bananaingot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bananawing"
+    },
+    "name": "bananawings",
+    "namespace": "mod"
+  }
+}

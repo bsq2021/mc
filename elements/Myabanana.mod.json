@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "myabanana",
+    "name": "Myabanana",
+    "description": "imma",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:immabanana"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

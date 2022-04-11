@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "p_and_b:bananaingot"
+    },
+    "1": {
+      "item": "p_and_b:banana"
+    },
+    "3": {
+      "item": "p_and_b:bananaingot"
+    },
+    "4": {
+      "item": "p_and_b:bananaingot"
+    },
+    "5": {
+      "item": "p_and_b:bananaingot"
+    },
+    "7": {
+      "item": "p_and_b:banana"
+    }
+  },
+  "result": {
+    "item": "p_and_b:banana_axe",
+    "count": 1
+  }
+}

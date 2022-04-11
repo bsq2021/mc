@@ -1,0 +1,172 @@
+{
+  "mod_elements": [
+    {
+      "name": "BanananaGun",
+      "type": "rangeditem",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bananana_gun"
+    },
+    {
+      "name": "Bananaingot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bananaingot"
+    },
+    {
+      "name": "Banana",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "banana"
+    },
+    {
+      "name": "Bananapick",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bananapick"
+    },
+    {
+      "name": "Bananaguns",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bananaguns"
+    },
+    {
+      "name": "Bananaingots",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bananaingots"
+    },
+    {
+      "name": "Bananapicks",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bananapicks"
+    },
+    {
+      "name": "BananaAxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "banana_axe"
+    },
+    {
+      "name": "Bananaaxes",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bananaaxes"
+    },
+    {
+      "name": "Bananasorwd",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bananasorwd"
+    },
+    {
+      "name": "Bananasorwds",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bananasorwds"
+    },
+    {
+      "name": "Bananawing",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bananawing"
+    },
+    {
+      "name": "Bananawings",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bananawings"
+    },
+    {
+      "name": "Myabanana",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "myabanana"
+    },
+    {
+      "name": "Myabananas",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "myabananas"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "immabanana",
+      "files": [
+        "banana_song"
+      ],
+      "category": "neutral",
+      "subtitle": "immabanana"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.p_and_b.myabanana.desc": "imma",
+      "item.p_and_b.bananana_gun": "Bananana Gun",
+      "item.p_and_b.banana_axe": "Banana Axe",
+      "item.p_and_b.bananaingot": "Bananaingot",
+      "item.p_and_b.bananapick": "BananaPick",
+      "item.p_and_b.bananasorwd": "Bananasorwd",
+      "block.p_and_b.banana": "Banana",
+      "item.p_and_b.bananawing": "Bananawing",
+      "subtitles.immabanana": "immabanana",
+      "item.p_and_b.myabanana": "Myabanana"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "p_and_b",
+    "modName": "P and B",
+    "version": "1.0.0",
+    "author": "Buiron, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.pandb",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

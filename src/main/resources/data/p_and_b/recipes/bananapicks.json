@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "p_and_b:bananaingot"
+    },
+    "1": {
+      "item": "p_and_b:bananaingot"
+    },
+    "2": {
+      "item": "p_and_b:bananaingot"
+    },
+    "4": {
+      "item": "p_and_b:banana"
+    },
+    "7": {
+      "item": "p_and_b:banana"
+    }
+  },
+  "result": {
+    "item": "p_and_b:bananapick",
+    "count": 1
+  }
+}

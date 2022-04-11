@@ -1,0 +1,12 @@
+{
+  "immabanana": {
+    "category": "neutral",
+    "subtitle": "subtitles.immabanana",
+    "sounds": [
+      {
+        "name": "p_and_b:banana_song",
+        "stream": false
+      }
+    ]
+  }
+}

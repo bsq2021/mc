@@ -1,0 +1,39 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "banananagun",
+    "customModelName": "Normal",
+    "name": "Bananana Gun",
+    "specialInfo": [
+      "17"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 100,
+    "actionSound": {
+      "value": ""
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": true,
+    "damageVsEntity": 2.5,
+    "bulletPower": 2.5,
+    "bulletDamage": 6.0,
+    "bulletKnockback": 10,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Blocks.STONE_BUTTON"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}
